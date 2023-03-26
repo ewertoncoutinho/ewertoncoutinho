@@ -1,9 +1,6 @@
 ### Hi there 👋
-
 ##### I'm a Software Engineer and UX/UI Designer.
-
 #
-
 ```JSON
 {
     "name": "Ewerton Coutinho",
