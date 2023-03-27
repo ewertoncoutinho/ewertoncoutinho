@@ -7,7 +7,7 @@ I'm a Software Engineer and UX/UI Designer.
 ```JSON
 {
     "name": "Ewerton Coutinho",
-    "live": "João Pessoa, Paraíba, BR",
+    "live": "Paraíba, BR",
     "degree": "Information Systems at UFPB",
     "technologies": ["Go", "TypeScript", "Nextjs", "Docker", "AWS", "Azure"],
     "skills": ["Data Structure", "User Interface", "User Experience", "Microservices", "Responsive Web Design"],
